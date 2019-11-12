@@ -10,7 +10,6 @@ https://docs.docker.com/compose/env-file/
 ## предвариельные работы 
 из папки storage/seeds/opencartSource разархивировать нужный архив в папку public
 
-
 ### запуск стоп
 docker-compose up --build
 docker-compose down
